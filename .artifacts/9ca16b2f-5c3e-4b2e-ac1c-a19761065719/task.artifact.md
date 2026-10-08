@@ -1,0 +1,5 @@
+- [x] Create `lib/providers/theme_provider.dart`
+- [x] Update `lib/main.dart` with `ThemeProvider` and theme configurations
+- [x] Update `lib/views/home_screen.dart` with Right Side Drawer and Toggle
+- [x] Refactor hardcoded background colors in all screens
+- [x] Verify Dark Mode switching and UI persistence
